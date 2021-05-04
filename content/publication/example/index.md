@@ -1,23 +1,24 @@
 ---
-title: "An example conference paper"
+title: "Pickup and Delivery Problem with Transshipment for Inland Waterway Transport"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
-- Robert Ford
+- Zhang, Yimeng
+- Atasoy, Bilge
+- Souravlias, Dimitris
+- Negenborn, Rudy R
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "Corresponding author"
 
-date: "2013-07-01T00:00:00Z"
-doi: ""
+date: "2020-09-22T00:00:00Z"
+doi: "https://doi.org/10.1007/978-3-030-59747-4_2"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-09-22T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,13 +27,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Computational Logistics. ICCL 2020. Lecture Notes in Computer Science*
+publication_short: In *ICCL*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Inland waterway transport is becoming attractive due to its minimum environmental impact in comparison with other transportation modes. Fixed timetables and routes are adopted by most barge operators, avoiding the full utilization of the available resources. Therefore a flexible model is adopted to reduce the transportation cost and environmental impacts. This paper regards the route optimization of barges as a pickup and delivery problem (PDP). A Mixed Integer Programming (MIP) model is proposed to formulate the PDP with transshipment of barges, and an Adaptive Large Neighborhood Search (ALNS) is developed to solve the problem efficiently. The approach is evaluated based on a case study in the Rhine Alpine corridor and it is shown that ALNS is able to find good solutions in reasonable computation times. The results show that the cost is lower when there is more flexibility. Moreover, the cost comparison shows that transshipment terminals can reduce the cost for barge companies.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: A flexible optimization model is adopted to reduce the transportation cost and environmental impacts in inland waterway transport.
 
 tags: []
 
